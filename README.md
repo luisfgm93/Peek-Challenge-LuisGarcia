@@ -85,7 +85,6 @@ For example, `12.39` in Tasks A–C represents **12.39%**, while `0.1239` in Tas
   dashboard_link.md
 
 README.md
-database_schema.png
 ```
 
 # Task A — Monthly Financials
