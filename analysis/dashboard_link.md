@@ -1,0 +1,1 @@
+[Open the Looker Studio dashboard](https://datastudio.google.com/reporting/cb982488-0cdd-4ac7-a031-011ac12e133a)
